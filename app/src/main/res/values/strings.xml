@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">AesopsFables</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_the_old_hound">TheOldHound</string>
+    <string name="title_activity_the_bundle_of_sticks">TheBundleOfSticks</string>
+    <string name="title_activity_belling_the_cat">BellingTheCat</string>
+    <string name="title_activity_androcles">Androcles</string>
+    <string name="title_activity_the_mischievous_dog">TheMischievousDog</string>
+    <string name="title_activity_the_ass_and_the_charger">TheAssAndTheCharger</string>
+    <string name="title_activity_the_boysandthe_frogs">TheBoysandtheFrogs</string>
+    <string name="title_activity_the_jayandthe_peacock">TheJayandthePeacock</string>
+    <string name="title_activity_the_cock_and_the_jewel">TheCockAndTheJewel</string>
+    <string name="title_activity_the_man_and_the_satyr">TheManAndTheSatyr</string>
+    <string name="Fable_1_text">
+        A Hound, who in the days of his youth and strength had never yielded to any beast of the forest, encountered in his old age a boar in the chase.\n\n
+
+He seized him boldly by the ear, but could not retain his hold because of the decay of his teeth, so that the boar escaped.\n\n
+
+His master, quickly coming up, was very much disappointed, and fiercely abused the dog.\n\n
+
+The Hound looked up and said: "It was not my fault, master; my spirit was as good as ever, but I could not help mine infirmities. I rather deserve to be praised for what I have been, than to be blamed for what I am."
+    </string>
+
+    <string name="Fable_2_text">
+
+Long ago, the mice had a general council to consider what measures they could take to outwit their common enemy, the Cat.\n\n
+
+Some said this, and some said that; but at last a young mouse got up and said he had a proposal to make, which he thought would meet the case.\n\n
+
+"You will all agree," said he, "that our chief danger consists in the sly and treacherous manner in which the enemy approaches us. Now, if we could receive some signal of her approach, we could easily escape from her. I venture, therefore, to propose that a small bell be procured, and attached by a ribbon round the neck of the Cat. By this means we should always know when she was about, and could easily retire while she was in the neighbourhood."\n\n
+
+This proposal met with general applause, until an old mouse got up and said:\n\n
+
+"That is all very well, but who is to bell the Cat?"\n\n
+
+The mice looked at one another and nobody spoke. Then the old mouse said:\n\n
+
+"It is easy to propose impossible remedies."\n\n
+            </string>
+
+    <string name="Fable_3_text">
+
+    </string>
+</resources>
+

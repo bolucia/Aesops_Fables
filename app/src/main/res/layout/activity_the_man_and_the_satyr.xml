@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TheManAndTheSatyr">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:layout_marginTop="3dp"
+        android:padding="15dp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="A Man had lost his way in a wood one bitter winter's night.
+
+As he was roaming about, a Satyr came up to him, and finding that he had lost his way, promised to give him a lodging for the night, and guide him out of the forest in the morning.
+
+As he went along to the Satyr's cell, the Man raised both his hands to his mouth and kept on blowing at them.
+
+What do you do that for? said the Satyr.
+
+    My hands are numb with the cold, said the Man, and my breath warms them.
+
+    After this they arrived at the Satyr's home, and soon the Satyr put a smoking dish of porridge before him.
+
+    But when the Man raised his spoon to his mouth he began blowing upon it.
+
+    And what do you do that for? said the Satyr.
+
+    The porridge is too hot, and my breath will cool it.
+
+    Out you go, said the Satyr.
+
+    I will have nought to do with a man who can blow hot and cold with the same breath."/>
+
+    </RelativeLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@android:drawable/ic_dialog_email" />
+
+</android.support.design.widget.CoordinatorLayout>
